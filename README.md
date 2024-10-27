@@ -82,3 +82,5 @@ O LocalStack oferece um utilitário chamado awslocal, que é um wrapper do AWS C
 ```bash
 awslocal s3api create-bucket --bucket my-local-bucket
 ```
+
+Documentação: https://docs.localstack.cloud/user-guide/integrations/aws-cli/

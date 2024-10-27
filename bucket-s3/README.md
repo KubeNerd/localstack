@@ -1,5 +1,11 @@
 ### 1. Exportando credenciais como variáveis de ambiente do sistema.
 
+
+OBS: Siga a documentação oficial abaixo.
+
+Acesse: https://docs.localstack.cloud/user-guide/integrations/terraform/
+
+
 ```bash
 export AWS_ACCESS_KEY_ID="test"
 export AWS_SECRET_ACCESS_KEY="test"
